@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👋 Helloo
 
-<!--
-**molochxte/molochxte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jay (she/her), a software developer, aspiring product designer, based in Seattle. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Kanary as a Software Engineer (Intern / Entry Level) 
+- 🌱 I’m actively working wtih GoLang, Python, and React.
+- 👯 I’m interested in in HCI Research, VR/AR tech, and education
+- ⚡ Fun fact: my favorite movie is Everything Everywhere All At Once 🎞️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Tech Stack
+
+Here are some of the technologies and tools I'm stumblin' with:
+
+- 💻 Programming Languages: Python, GoLang
+- 🌐 Web Development: React, Node.JS, Django
+- 🛢️ Databases: PostgreSQL
+- 🚧 DevOps & Tools: AWS, Kubernetes
+- 🎨 UI/UX Design: Figma Prototyping and Wireframes, User Research Methods, AR/VR prototyping
+
+
+### 🌐 Connect with Me
+
+Let's connect and chat about tech, open-source, or anything interesting!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/jay-quedado)
