@@ -2,8 +2,7 @@
 
 I'm Jay (she/her), a software developer, aspiring product designer, based in Seattle. 
 
-- 🔭 I’m currently working at Kanary as a Software Engineer (Intern / Entry Level) 
-- 🌱 I’m actively working wtih GoLang, Python, and React.
+- 🌱 I’m currently looking for my next role in software development
 - 👯 I’m interested in in HCI Research, VR/AR tech, and education
 - ⚡ Fun fact: my favorite movie is Everything Everywhere All At Once 🎞️
 
